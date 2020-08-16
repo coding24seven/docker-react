@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-hello world<code> src/App.js</code> and  to reload
+i was changed on the feature branch
 <a
           className="App-link"
           href="https://reactjs.org"
